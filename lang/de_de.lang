@@ -53,14 +53,14 @@ Account settings;Benutzer-Einstellungen
 Logout;Abmelden
 Dashboard;Dashboard
 Order;Bestellen
-Website;Website
+Website;Webseite
 Database;Datenbank
 Domain;Domain
 Servers;Server
-Websites;Websiten
+Websites;Webseiten
 Databases;Datenbanken
 Domains;Domains
-Changelog;Anderungen
+Changelog;Änderungen
 Firstname;Vorname
 Lastname;Nachname
 Repeat password;Password wiederholen
@@ -81,12 +81,12 @@ Manage your gameservers;Gameserver verwalten
 Adjust your gameservers;Deine Gameserver anpassen
 Manage your databases;Datenbanken verwalten
 Insert, delete and update the data in your databases;Daten in die Datenbank einfügen, entfernen und ändern
-Create a website;Eine Website erstellen
-Make your own websites with a webspace;Mit einem Webspace eine Website erstellen
+Create a website;Eine Webseite erstellen
+Make your own websites with a webspace;Mit einem Webspace eine Webseite erstellen
 Create a domain;Eine Domain erstellen
 Make your servvices accessible throught your own domain;Mache deine Dienste mit einer Domain erreichbar
-Manage your websites;Deine Websiten verwalten
-Modify the content of your websites;Den Inhalt deiner Websiten verwalten
+Manage your websites;Deine Webseiten verwalten
+Modify the content of your websites;Den Inhalt deiner Webseiten verwalten
 Manage your domains;Deine Domains verwalten
 Add, edit and delete dns records;DNS-Records hinzufügen, entfernen oder bearbeiten
 Admin;Admin
@@ -117,7 +117,7 @@ Storage;Speicherplatz
 Available storage;Verfügbarer Speicherplatz
 Add a new node;Ein neues Node hinzufügen
 Delete;Löschen
-Deleting;Wirt gelöscht...
+Deleting;Wird gelöscht...
 Edit;Bearbeiten
 Token Id;Token Id
 Token;Token
@@ -318,7 +318,7 @@ State;Land
 Country;Staat
 Totp;Totp
 Discord;Discord
-Subscription;Abonament
+Subscription;Abonnement
 None;None
 No user with this id found;Kein Benutzer mit dieser ID gefunden
 Back to list;Zurück zur liste
@@ -328,7 +328,7 @@ Password reset;Password wiederherstellung
 Reset the password of your account;Password deines Accounts zurücksetzen
 Wrong here?;Falsch hier?
 A user with this email can not be found;Ein Benutzer mit dieser E-Mail konnte nicht gefunden werden
-Passwort reset successfull. Check your mail;Password wiederherstellung erfolgreich. Überprüfe deine Email
+Password reset successfull. Check your mail;Password wiederherstellung erfolgreich. Überprüfe deine Email
 Discord bot;Discord Bot
 New image;Neues Image
 Description;Beschreibung
@@ -398,7 +398,7 @@ An error occured while logging you in;Ein Fehler ist aufgetreten, als du dich an
 You need to enter an email address;Du musst eine E-Mail-Adresse angeben
 You need to enter a password;Du musst ein Password eingeben
 You need to enter a password with minimum 8 characters in lenght;Du musst ein Password eingeben, das mindestens 8 Buchstaben lang ist
-Proccessing;Weid verarbeitet...
+Proccessing;Wird verarbeitet...
 The FirstName field is required.;Das Vorname-Feld ist erforderlich
 The LastName field is required.;Das Nachname-Feld ist erforderlich
 The Address field is required.;Das Address-Feld ist erforderlich
@@ -438,7 +438,7 @@ Uploading files;Dateien wurden hochgeladen
 complete;vollständig
 Upload complete;Upload komplett
 Security;Sicherheit
-Subscriptions;Abonaments
+Subscriptions;Abonnements
 2fa Code;2FA Code
 Your account is secured with 2fa;Dein Account wird mit 2-FA gesichert
 anyone write a fancy text here?;hier einen schönen Text schreiben?
@@ -453,32 +453,32 @@ Finish activation;Aktivierung fertig
 New password;Neues Password
 Secure your account;Deinen Account sichern
 2fa adds another layer of security to your account. You have to enter a 6 digit code in order to login.;2-FA fügt eine weitere Sicherheits-Schicht hinzu. Du musst einen 6-Ziffern-Code eingeben, um dich anzumelden.
-New subscription;Neues Abonament
+New subscription;Neues Abonnement
 You need to enter a name;Du musst einen Namen eingeben
 You need to enter a description;Du musst eine Beschreibung eigeben
 Add new limit;Ein neues Limit hinzufügen
-Create subscription;Abonament erstellen
+Create subscription;Abonnement erstellen
 Options;Optionen
 Amount;Betrag
 Do you really want to delete it?;Möchtes du es wirklich löschen?
-Loading your subscription;Dein Abonament wird geladen
-Searching for deploy node;#Empty#
+Loading your subscription;Dein Abonnement wird geladen
+Searching for deploy node;Suche Node zum Aufsetzen
 Searching for available images;Nach verfügbaren Images wird gesucht
 Server details;Server Details
 Configure your server;Deinen Server konfigurieren
-Default;Standart
-You reached the maximum amount of servers for every image of your subscription;Du hast die maximale Anzahl an Images von deinem Abonament erreicht.
+Default;Standard
+You reached the maximum amount of servers for every image of your subscription;Du hast die maximale Anzahl an Images von deinem Abonnement erreicht.
 Personal information;Prsönliche Informationen
 Enter code;Code eingeben
 Server rename;Server Umbenennen
 Create code;Code erstellen
-Save subscription;Abonament speichern
+Save subscription;Abonnement speichern
 Enter your information;Informationen eingeben
 You need to enter your full name in order to use moonlight;Du musst deinen ganzen Namen eingeben, um Moonlight zu nutzen
 No node found;Kein Node gefunden
-No node found to deploy to found;#Empty#
+No node found to deploy to found;Keine Node zum Aufsetzen gefunden
 Node offline;Node offline
-The node the server is running on is currently offline;Das Node, auf dem der Server grat läuft, ist offline
+The node the server is running on is currently offline;Die Node, auf dem der Server grat läuft, ist offline
 Server not found;Server konnte nicht gefunden werden
 A server with that id cannot be found or you have no access for this server;Ein Server mit dieser ID konnte nicht gefunden werden
 Compress;Komprimieren
@@ -486,7 +486,7 @@ Decompress;De-Komprimieren
 Moving;Bewegen...
 Compressing;Komprimieren...
 selected;Ausgewählt
-New website;Neue Website
+New website;Neue Webseite
 Plesk servers;Plesk Servers
 Base domain;Base Domain
 Plesk server;Plesk Server
@@ -503,9 +503,9 @@ Issue certificate;SSL-Zertifikat Ausgeben
 New plesk server;Neuer Plesk Server
 Api url;API URL
 Host system offline;Host System Offline
-The host system the website is running on is currently offline;Das Host System, auf dem diese Website läuft, ist offline
+The host system the website is running on is currently offline;Das Host System, auf dem diese Webseite läuft, ist offline
 No SSL certificates found;Keine SSL-Zertifikate gefunden
-No databases found for this website;Dieser Website konnten keine Datenbanken zugeordnet werden
+No databases found for this website;Dieser Webseite konnten keine Datenbanken zugeordnet werden
 The name should be at least 8 characters long;Der Name sollte mindestens 8 Zeichen lang sein
 The name should only contain of lower case characters and numbers;Der Name sollte nur Kleinbuchstaben und Zahlen enthalten
 Error from plesk;Error von Plesk
@@ -518,10 +518,10 @@ You need to specify a image;You need to specify a image
 Api Url;API URL
 Api Key;Api Key
 Duration;Dauer
-Enter duration of subscription;Dauer des Abonaments eingeben
+Enter duration of subscription;Dauer des Abonnements eingeben
 Copied code to clipboard;Code in die Zwischenablage kopiert
 Invalid or expired subscription code;Ungültiger oder Abgelaufener Abo-Code
-Current subscription;Dein Abonament
+Current subscription;Dein Abonnement
 You need to specify a server image;Du musst ein Image angeben
 CPU;CPU
 Hour;Stunde
@@ -532,7 +532,7 @@ All time;Für immer
 This function is not implemented;Diese Funktion wurde noch nicht hinzugefügt
 Domain details;Domain Details
 Configure your domain;Deine Domain konfigurieren
-You reached the maximum amount of domains in your subscription;Du hast das Maximum an Domains in deinem Abonament erreicht
+You reached the maximum amount of domains in your subscription;Du hast das Maximum an Domains in deinem Abonnement erreicht
 You need to specify a shared domain;Du musst eine Shared-Domain angeben
 A domain with this name does already exist for this shared domain;Eine Domain mit diesem Name existiert bereits in dieser Shared-Domain
 The Email field is required.;Das E-Mail-Feld ist erforderlich
@@ -545,8 +545,8 @@ Searching for deploy plesk server;Suchen um den Plesk Server aufzusetzen
 No plesk server found;Kein Plesk Server gefunden
 No plesk server found to deploy to;Keinen Plesk Server zum Aufsetzen gefunden
 No node found to deploy to;Kein Node zum Aufsetzen
-Website details;Website Details
-Configure your website;Konfiguriere deine Website
+Website details;Details der Webseite
+Configure your website;Konfiguriere deine Webseite
 The name cannot be longer that 32 characters;Der Name kann nicht länger als 32 Zeichen sein
 The name should only consist of lower case characters;Der Name sollte nur aus Kleinbuchstaben bestehen
 News;Neuigkeiten
@@ -558,8 +558,8 @@ Delete post;Post löschen
 Do you really want to delete the post ";Post löschen? "
 You have no domains;Du hast keine Domains
 We were not able to find any domains associated with your account;Wir haben keine Domains, die mit deinem Account verbunden sind, gefunden
-You have no websites;Du hast keine Websites
-We were not able to find any websites associated with your account;Wir haben keine Websiten, die mit deinem Account verbunden sind, gefunden
+You have no websites;Du hast keine Webseites
+We were not able to find any websites associated with your account;Wir haben keine Webseiten, die mit deinem Account verbunden sind, gefunden
 Guest;Gast
 You need a domain;Du brauchts eine Domain
 New post;Neuer Post
@@ -587,12 +587,12 @@ Sftp Password;Sftp Password
 Lets Encrypt certificate successfully issued;Lets Encrypt Zertifikat erfolgreich erstellt
 Add shared domain;Shared Domain Hinzufügen
 Webspace;Webspace
-You reached the maximum amount of websites in your subscription;Du hast das Maximum an Websiten in deinem Abonament erreicht
+You reached the maximum amount of websites in your subscription;Du hast das Maximum an Webseiten in deinem Abonnement erreicht
 Searching for deploy web host;Suchen um den Webhost aufzusetzen
 Webspace details;Webspace Details
 Web host;Web host
 Configure your webspaces;Konfiguriere deine Webspaces
-You reached the maximum amount of webspaces in your subscription;Du hast das Maximum an Webspaces in deinem Abonament erreicht
+You reached the maximum amount of webspaces in your subscription;Du hast das Maximum an Webspaces in deinem Abonnement erreicht
 Create a webspace;Einen Webspace erstellen
 Manage your webspaces;Deine Webspaces verwalten
 Modify the content of your webspaces;Den Inhalt deiner Webspaces verwalten
@@ -634,243 +634,145 @@ Rating saved;Bewretung gespeichert
 Group;Gruppe
 Beta;Beta
 Create a new group;Eine neue Gruppe erstellen
-Make your services accessible through your own domain;Make your services accessible through your own domain
-Edit layout;Edit layout
-Search for plugins;Search for plugins
-Search;Search
-Searching;Searching
-Sentry;Sentry
+Download WinSCP;WinSCP herunterladen
+Show connection details;Verbindungsdetails anzeigen
+New;Neu
+New file;Neue Datei
+Connection details;Verbindungsdetails
 Malware;Malware
-Uptime;Uptime
-Moonlight is since;Moonlight is since
-Sentry is enabled;Sentry is enabled
-Moonlight health;Moonlight health
-Healthy;Healthy
-Download WinSCP;Download WinSCP
-Show connection details;Show connection details
-New;New
-New file;New file
-Connection details;Connection details
-Sign in with;Sign in with
-Register ip;Register ip
-Last ip;Last ip
-Price;Price
-Currency;Currency
-Unknown error from stripe;Unknown error from stripe
-Continue;Continue
-Preparing;Preparing
-Two factor authentication;Two factor authentication
-Preferences;Preferences
-Streamer mode;Streamer mode
-Make sure you have installed one of the following apps on your smartphone and press continue;Make sure you have installed one of the following apps on your smartphone and press continue
-Benutzer;Benutzer
-Datenbanken;Datenbanken
+Create a new file;Eine neue Datei erstellen
+Edit layout;Layout anpassen
+Uptime;Laufzeit
+Moonlight is online since;Moonlight ist online seit
+User;Benutzer
+Databases;Datenbanken
 Sitzungen;Sitzungen
-Active users;Active users
-Chose your plan;Chose your plan
-Select the perfect plan for your next project;Select the perfect plan for your next project
-Days;Days
-Select;Select
-We need your attention!;We need your attention!
-Your subscription expires soon;Your subscription expires soon
-left;left
-per;per
-days;days
-We will send you a email upon subscription expiration;We will send you a email upon subscription expiration
-AppUrl;AppUrl
-Color;Color
-BrandName;BrandName
-OverrideUrl;OverrideUrl
-Enabled;Enabled
-EnableOverride;EnableOverride
-PowerActions;PowerActions
-SendCommands;SendCommands
-AccountId;AccountId
-About;About
-EnableOverrideUrl;EnableOverrideUrl
-Ssl;Ssl
-WebHook;WebHook
-Url;Url
-MinRating;MinRating
-DaysSince;DaysSince
-Dsn;Dsn
-Keywords;Keywords
-Title;Title
-Length;Length
-Rank;Rank
-IsReadOnly;IsReadOnly
-IsFixedSize;IsFixedSize
-IsSynchronized;IsSynchronized
-SiteKey;SiteKey
-SecretKey;SecretKey
-Start scan;Start scan
-Results;Results
-Enter a ip;Enter a ip
+Active users;Aktive Nutzer
+Search for plugins;Nach Plugins suchen
+Search;Suchen
+Searching;Wird gesucht...
+Successfully installed gunshell;Gunshell wurde erfolgreich installiert
+Successfully installed fastasyncworldedit;Fastasyncworldedit wurde erfolgreich installiert
+Successfully installed minimotd;Minimotd wurde erfolgreich installiert
+Moonlight health;Moonlight Status
+Healthy;Healthy
+Successfully saved file;Die Datei wurde erfolgreich gespeichert
+Unsorted servers;Unsortierte Server
+Enter a new name;Einen neuen Namen eingeben
+Sign in with;Anmelden mit
+Make your services accessible through your own domain;Mache deine Dienste mit einer Domain verfügbar
+New group;Neue Gruppe
+Finish editing layout;Layout Fertigstellen
+Remove group;Gruppe löschen
+Hidden in edit mode;Im Edit-Mode ausgeblendet
+Enter your 2fa code here;Deinen 2FA Code hier eingeben
+Two factor authentication;Zwei Faktor Authentifikation
+Preferences;Preferenzen
+Streamer mode;Streamer Modus
+Scan the QR code and enter the code generated by the app you have scanned it in;Scanne den QR-Code mit der App
+Start scan;Scan Starten
+Results;Ergebnisse
+Scan in progress;Wird gescannt
+Debug;Debug
+Save changes;Änderungen speichern
+Delete domain;Domain löschen
+Python version;Python Version
+Python file;Python Datei
+Select python file to execute on start;Wähle die Python Datei aus, die beim Start ausgeführt wird
+You have no webspaces;Du hast keine Webspaces
+We were not able to find any webspaces associated with your account;Wir haben keine Webspaces gefunden, die mit deinem Account verbunden sind
+Backup download successfully started;Der Backup-Download wurde erfolgreich gestartet
+Error from cloud panel;Fehler vom Cloud Panel
+Error from wings;Fehler von Wings
+Remove link;Link entfernen
+Your account is linked to a discord account;Dein Account ist mit einem Discord Account verbunden
+You are able to use features like the discord bot of moonlight;Du kannst Features wie den Discord Bot von Moonlight benutzen
+The password should be at least 8 characters long;Dein Password sollte mindestens 8 Zeichen lang sein
+The name should only consist of lower case characters or numbers;Der Name sollte nur aus Kleinbuchstaben und Nummern bestehen
+The requested resource was not found;Die gewünschte Ressource wurde nicht gefunden
+We were not able to find the requested resource. This can have following reasons;Wir haben die gewünschte Ressource nicht gefunden. Das kann folgenden Grund haben
+The resource was deleted;Die Ressource wurde gelöscht
+You have to permission to access this resource;Du hast keine Rechte um auf diese Ressource zuzugreifen
+You may have entered invalid data;Du hast ungültige Daten angegeben
+A unknown bug occured;Ein unbekannter Bug ist aufgetreten
+An api was down and not proper handled;Eine API war offline und wurde nicht richtig behandelt
+A database with this name does already exist;Es gibt bereits eine Datenbank mit diesem Namen
+Successfully installed quickshop-hikari;Quickshop-Hikari wurde erfolgreich installiert
+You need to enter a valid domain;Du musst eine gültige Domain angeben
+2fa code;2FA Code
+This feature is not available for;Dieses Feature ist nicht verfügbar für
+Your account is currently not linked to discord;Dein Account ist nicht mit Discord verbunden
+To use features like the discord bot, link your moonlight account with your discord account;Um Features wie Moonlights Discord Bot nutzen zu können, verbinde deinen Account mit Discord
+Link account;Account verbinden
+Continue;Weiter
+Preparing;Wird vorbereitet
+Make sure you have installed one of the following apps on your smartphone and press continue;Stelle sicher dass du eine der folgenden Apps auf deinem Smartphone installiert hast und drücke auf Weiter
+The max lenght for the name is 32 characters;Die maximale Länge für den Namen beträgt 32 Zeichen
+Successfully installed chunky;Chunky wurde erfolgreich installiert
+Successfully installed huskhomes;Huskhomes wurde erfolgreich installiert
+Successfully installed simply-farming;Simple-Farming wurde erfolgreich installiert
+You need to specify a first name;Du musst einen Vornamen eingeben
+You need to specify a last name;Du musst einen Nachnamen angeben
+You need to specify a password;Du musst ein Password angeben
+Please solve the captcha;Bitte löse das Captcha
+The email is already in use;Diese Email wird bereits verwendet
+The dns records of your webspace do not point to the host system;Die DNS Records deines Webspaces zeigen nicht zum Hostsystem
+Scan complete;Scan komplett
+Currently scanning:;Zurzeit wird gescannt:
+Successfully installed dynmap;Dynmap wurde erfolgreich installiert
+Successfully installed squaremap;Squaremap wurde erfolgreich installiert
+No web host found;Kein Webhost gefunden
+No web host found to deploy to;Es wurde kein Webhost zum Aufsetzen gefunden
+Successfully installed sleeper;Sleeper wurde erfolgreich installiert
+You need to enter a domain;Du musst eine Domain angeben
+Enter a ip;Eine IP angeben
 Ip Bans;Ip Bans
 Ip;Ip
-Configuration;Configuration
-Successfully saved and reloaded configuration. Some changes may take affect after a restart of moonlight;Successfully saved and reloaded configuration. Some changes may take affect after a restart of moonlight
-This operation was disabled;This operation was disabled
-Delete domain;Delete domain
-This operation is disabled;This operation is disabled
-Please wait;Please wait
-Server is currently archived;Server is currently archived
-This server is archived. The data of this server is stored as a backup. To restore click the unarchive button an be patient;This server is archived. The data of this server is stored as a backup. To restore click the unarchive button an be patient
-Successfully saved file;Successfully saved file
-You have reached your limit of this image;You have reached your limit of this image
-Import egg;Import egg
-Attention;Attention
-Imported pterodactyl eggs can result in broken images. We do not support pterodactyl eggs;Imported pterodactyl eggs can result in broken images. We do not support pterodactyl eggs
-I take the risk;I take the risk
-Leave empty for the default background image;Leave empty for the default background image
-Background image url;Background image url
-An unknown error occured while uploading and importing the image;An unknown error occured while uploading and importing the image
-Import pterodactyl egg;Import pterodactyl egg
-Create a new file;Create a new file
-Unsorted servers;Unsorted servers
-New group;New group
-Finish editing layout;Finish editing layout
-Remove group;Remove group
-Hidden in edit mode;Hidden in edit mode
-Java version;Java version
-Jar file;Jar file
-Select jar to execute on start;Select jar to execute on start
-This email is blacklisted;This email is blacklisted
-Mail;Mail
-Mail templates;Mail templates
-New mail template;New mail template
-Enter the name of the new template;Enter the name of the new template
-Test mail configuration;Test mail configuration
-Sending test mail;Sending test mail
-A test mail has been sent to the email address of your account;A test mail has been sent to the email address of your account
-Remove link;Remove link
-Your account is linked to a discord account;Your account is linked to a discord account
-You are able to use features like the discord bot of moonlight;You are able to use features like the discord bot of moonlight
-You have no permission to access this resource;You have no permission to access this resource
-You have no permission to access this resource. This attempt has been logged ;)
-The requested resource was not found;The requested resource was not found
-We were not able to find the requested resource. This can have following reasons;We were not able to find the requested resource. This can have following reasons
-The resource was deleted;The resource was deleted
-You may have entered invalid data;You may have entered invalid data
-A unknown bug occured;A unknown bug occured
-An api was down and not proper handled;An api was down and not proper handled
-Edit permissions;Edit permissions
-Scan complete;Scan complete
-Currently scanning;Currently scanning
-of CPU used;of CPU used
-memory used;memory used
-227;227
-Ip bans;Ip bans
-Scan in progress;Scan in progress
-Permission groups;Permission groups
-Enter the name for the new group;Enter the name for the new group
-184;184
-Details;Details
-Account ID;Account ID
-TOTP;TOTP
-Discord ID;Discord ID
-Last Login IP;Last Login IP
-at;at
-Register IP;Register IP
-Services;Services
-Security logs;Security logs
-Text;Text
-Timestamp;Timestamp
-Store;Store
-Products;Products
-New product;New product
-Type;Type
-Product type;Product type
-Service configuration;Service configuration
-Edit product;Edit product
-Ddos protection;Ddos protection
-Block;Block
-Whitelist;Whitelist
-blocked IPs;blocked IPs
-whitelisted IPs;whitelisted IPs
-Packets;Packets
-remaining;remaining
-SFTP;SFTP
-Connecting to the servers console to stream logs and the current resource usage;Connecting to the servers console to stream logs and the current resource usage
-Nothing;Nothing
-Installed plugins;Installed plugins
-Author;Author
-Path;Path
-Official plugins;Official plugins
-Successfully installed plugin;Successfully installed plugin
-Successfully installed plugin. You need to reboot to apply changes;Successfully installed plugin. You need to reboot to apply changes
-Install;Install
-Installing;Installing
-Plugin readme;Plugin readme
-Show readme;Show readme
-Debug;Debug
-Save changes;Save changes
-Scan all servers;Scan all servers
-Create ticket;Create ticket
-Create a new ticket;Create a new ticket
-You need to specify a issue topic;You need to specify a issue topic
-You need to specify a issue description;You need to specify a issue description
-You need to specify your tries to solve this issue;You need to specify your tries to solve this issue
-Create new ticket;Create new ticket
-Click here to create a new ticket;Click here to create a new ticket
-Enter a title for your ticket;Enter a title for your ticket
-Describe the issue you are experiencing;Describe the issue you are experiencing
-Describe what you have tried to solve this issue;Describe what you have tried to solve this issue
-Type a message;Type a message
-Assigned tickets;Assigned tickets
-Unassigned tickets;Unassigned tickets
-Update priority;Update priority
-Update status;Update status
-Unclaim;Unclaim
-Claim;Claim
-125;125
-Total Tickets;Total Tickets
-Pending tickets;Pending tickets
-Closed tickets;Closed tickets
-Ticket overview;Ticket overview
-Assigned to;Assigned to
-Ticket title;Ticket title
-User;User
-Open;Open
-My tickets;My tickets
-All tickets;All tickets
-Ticket details;Ticket details
-Ticket ID;Ticket ID
-Issue description;Issue description
-Issue resolve tries;Issue resolve tries
-Create a ticket;Create a ticket
-View tickets;View tickets
-View your tickets;View your tickets
-Your tickets;Your tickets
-Subject;Subject
-Subject ID;Subject ID
-New Product;New Product
-Add Product;Add Product
-No Products found;No Products found
-Schließen;Schließen
-Löschen;Löschen
-Filter;Filter
-First;First
-Previous;Previous
-Last;Last
-Error from cloudflare: ;Error from cloudflare: 
-You have to register within 15 minutes after the start of moonlight to get admin permissions. Please restart moonlight in order to register as admin. Please note that this will only works once and will be deactivated after a admin has registered;You have to register within 15 minutes after the start of moonlight to get admin permissions. Please restart moonlight in order to register as admin. Please note that this will only works once and will be deactivated after a admin has registered
-New Server;New Server
-Add Server;Add Server
-Archiving;Archiving
-Server is currently not archived;Server is currently not archived
-Enter your 2fa code here;Enter your 2fa code here
-Scan the qr code and enter the code generated by the app you have scanned it in;Scan the qr code and enter the code generated by the app you have scanned it in
-Total cpu load;Total cpu load
-Total memory load;Total memory load
-Total user count;Total user count
-Total session count;Total session count
-Total active user count;Total active user count
-Player Manager;Player Manager
-You need to specify a node;You need to specify a node
-Notifications;Notifications
-Purge;Purge
-Purge page;Purge page
-Add allocation;Add allocation
-Reinstall;Reinstall
-Reinstalling;Reinstalling
+Successfully installed simple-voice-chat;Simple-Voice-Chat wurde erfolgreich installiert
+Successfully installed smithing-table-fix;Smithing-Table-Fix wurde erfolgreich installiert
+Successfully installed justplayer-tpa;Justplayer-TPA wurde erfolgreich installiert
+Successfully installed ishop;iShop wurde erfolgreich installiert
+Successfully installed lifestealre;Lifestealre wurde erfolgreich installiert
+Successfully installed lifeswap;Lifeswap wurde erfolgreich installiert
+Java version;Java Version
+Jar file;JAR Datei
+Select jar to execute on start;Eine JAR Datei auswählen, die beim Start ausgeführt wird
+A website with this domain does already exist;Eine Webseite mit dieser Domain existiert bereits
+Successfully installed discordsrv;DiscordSrv wurde erfolgreich installiert
+Reinstall;Reinstallieren
+Reinstalling;Wird Reinstalliert
+Successfully installed freedomchat;Freedomchat wurde erfolgreich installiert
+Leave empty for the default background image;Für das Standard Hintergrundbild freilassen
+Background image url;URL zum Hintergrundbild
+of CPU used;von der CPU wird benutzt
+memory used;Speicher benutzt
+163;163
+172;172
+Sentry;Sentry
+Sentry is enabled;Sentry ist eingeschaltet
+Successfully installed mobis-homes;Mobis-Homes wurde erfolgreich installiert
+Your moonlight account is disabled;Dein Moonlight Account ist deaktiviert
+Your moonlight account is currently disabled. But dont worry your data is still saved;Dein Moonlight Account ist deaktiviert, aber keine Sorge, deine Daten sind noch gespeichert
+You need to specify a email address;Du musst eine Email Adresse angeben
+A user with that email does already exist;Ein Nutzer mit dieser Email Adresse existiert bereits
+Successfully installed buildmode;Buildmode wurde erfolgreich installiert
+Successfully installed plasmo-voice;Plasmo-Voice wurde erfolgreich installiert
+157;157
+174;174
+158;158
+Webspace not found;Webspace nicht gefunden
+A webspace with that id cannot be found or you have no access for this webspace;Ein Webspace mit dieser ID wurde nicht gefunden, oder du hast keinen Zugriff auf diesen Webspace
+No plugin download for your minecraft version found;Kein Plugin für deine Minecraft-Version gefunden
+Successfully installed gamemode-alias;Gamemode-Alias wurde erfolgreich installiert
+228;228
+User;Nutzer
+Send notification;Benachrichtigung senden
+Successfully saved changes;Änderungen erfolgreich gespeichert
+Archiving;Wird Archiviert
+Server is currently not archived;Dieser Server ist zurzeit nicht Archiviert
+Add allocation;Zuweisung hinzufügen
+231;231
+175;175
+Dotnet version;Dotnet Version
+Dll file;DLL Datei
+Select dll to execute on start;Wähle die DLL Datei aus, die beim Start ausgeführt wird 
