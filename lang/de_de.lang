@@ -1,13 +1,13 @@
 Open support;Support Öffnen
 About us;Über uns
 Imprint;Impressum
-Privacy;Privacy
+Privacy;Datenschutz
 Login;Einloggen
 Register;Registrieren
 Insert brand name...;Firmenname eingeben...
 Save and continue;Speichern und Fortfahren
 Saving;Speichern
-Configure basics;Grundlagen einstellen
+Configure basics;Grundlegendes konfigurieren
 Brand name;Firmenname
 test;test
 Insert first name...;Vornamen eingeben...
@@ -23,9 +23,9 @@ Enter password;Password eingeben
 Next;Weiter
 Back;Zurück
 Configure features;Features konfigurieren
-Support chat;Chat Hilfe
+Support chat;Support Chat
 Finish;Fertigstellen
-Finalize installation;Installation Fertigstellen
+Finalize installation;Installation abschließen
 Moonlight basic settings successfully configured;Moonlight's Standard-Einstellungen wurden konfiguriert
 Ooops. This page is crashed;Ups. Die Seite ist abgestürzt.
 This page is crashed. The error has been reported to the moonlight team. Meanwhile you can try reloading the page;Diese Seite ist abgestürzt. Bitte versuche, sie neu zu laden.
@@ -60,7 +60,7 @@ Servers;Server
 Websites;Webseiten
 Databases;Datenbanken
 Domains;Domains
-Changelog;Änderungen
+Changelog;Changelog
 Firstname;Vorname
 Lastname;Nachname
 Repeat password;Password wiederholen
@@ -86,7 +86,7 @@ Make your own websites with a webspace;Mit einem Webspace eine Webseite erstelle
 Create a domain;Eine Domain erstellen
 Make your servvices accessible throught your own domain;Mache deine Dienste mit einer Domain erreichbar
 Manage your websites;Deine Webseiten verwalten
-Modify the content of your websites;Den Inhalt deiner Webseiten verwalten
+Modify the content of your websites;Ändere den Inhalt deiner Websiten
 Manage your domains;Deine Domains verwalten
 Add, edit and delete dns records;DNS-Records hinzufügen, entfernen oder bearbeiten
 Admin;Admin
@@ -98,7 +98,7 @@ Nodes;Nodes
 Images;Images
 aaPanel;aaPanel
 Users;Benutzer
-Support;Hilfe
+Support;Support
 Statistics;Statistiken
 No nodes found. Start with adding a new node;Keine Nodes gefunden. Ein neues Node hinzufügen
 Nodename;Nodename
@@ -150,7 +150,7 @@ Cores;Kerne
 Owner;Besitzer
 Value;Wert
 An unknown error occured;Ein unbekannter Fehler ist aufgetreten
-No allocation found;Keine Zuweisung gefunden
+No allocation found;Keine Allocation gefunden
 Identifier;Identifier
 UuidIdentifier;UuidIdentifier
 Override startup command;Startup Befehl überschreiben
@@ -158,12 +158,12 @@ Loading;Wird geladen...
 Offline;Offline
 Connecting;Verbiden...
 Start;Start
-Restart;Neu Starten
+Restart;Neustart
 Stop;Stoppen
 Shared IP;Geteilte IP
 Server ID;Server ID
 Cpu;CPU
-Console;Console
+Console;Konsole
 Files;Dateien
 Backups;Backups
 Network;Netzwerk
@@ -208,7 +208,7 @@ Primary;Primärer
 This feature is currently not available;Diese Funktion ist zur Zeit nicht verfügbar
 Send;Senden
 Sending;Wird gesendet
-Welcome to the support chat. Ask your question here and we will help you;Willkommen in der Chat Hilfe. Stelle hier deine Frage und wir helfen dir.
+Welcome to the support chat. Ask your question here and we will help you;Willkommen in der Support Chat. Stelle hier deine Frage und wir helfen dir.
  minutes ago; Minuten
 just now;gerade eben
 less than a minute ago;weniger als eine Minute
@@ -218,11 +218,11 @@ Failed;Fehlgeschlagen
  hours ago; Stunden
 Open tickets;Tickets öffnen
 Actions;Aktionen
-No support ticket is currently open;Kein Support Ticket ist zurzeit offen.
+No support ticket is currently open;Derzeit ist kein Support-Ticket geöffnet
 User information;Benutzer-Information
 Close ticket;Ticket schließen
 Closing;Wird geschlossen...
-The support team has been notified. Please be patient;Das Support-Team wurde benachrichtigt. Habe etwas gedult
+The support team has been notified. Please be patient;Das Support-Team wurde benachrichtigt. Bitte habe ein wenig Geduld.
 The ticket is now closed. Type a message to open it again;Das Ticket wurde geschlossen. Schreibe etwas, um es wieder zu öffnen
 1 day ago;vor einem Tag
 is typing;schreibt...
@@ -239,7 +239,7 @@ No dns records found;Keine DNS-Records gefunden
 Content;Inhalt
 Priority;Priorität
 Ttl;Ttl
-Enable cloudflare proxy;Cloudflare-Proxy benutzen
+Enable cloudflare proxy;Cloudflare-Proxy aktivieren
 CF Proxy;CF Proxy
  days ago; Tage
 Cancle;Abbrechen
@@ -350,7 +350,7 @@ Successfully saved image;Das Image wurde erfolgreich gespeichert
 No docker images found;Keine Docker Images gefunden
 Key;Schlüssel
 Default value;Standardwert
-Allocations;Zuweisung
+Allocations;Allocations
 No variables found;Keine Variablen gefunden
 Successfully added image;Das Image wurde erfolgreich hinzugefügt
 Password change for;Password ändern für
@@ -585,7 +585,7 @@ Sftp Port;Sftp Port
 Sftp Username;Sftp Benutzername
 Sftp Password;Sftp Password
 Lets Encrypt certificate successfully issued;Lets Encrypt Zertifikat erfolgreich erstellt
-Add shared domain;Shared Domain Hinzufügen
+Add shared domain;Shared Domain hinzufügen
 Webspace;Webspace
 You reached the maximum amount of websites in your subscription;Du hast das Maximum an Webseiten in deinem Abonnement erreicht
 Searching for deploy web host;Suchen um den Webhost aufzusetzen
@@ -613,7 +613,7 @@ Reload config;Konfiguration neu laden
 Successfully reloading configuration;Konfiguration wird neu geladen...
 Successfully reloaded configuration;Die Konfiguration wurde erfolgreich neu geladen
 Flows;Flows
-Add node;Node Hinzufügen
+Add node;Node hinzufügen
 Web system;Web System
 Servers with this image;Server mit diesem Image
 You need to specify a user;Du musst einen Benutzer angeben
@@ -770,7 +770,7 @@ Send notification;Benachrichtigung senden
 Successfully saved changes;Änderungen erfolgreich gespeichert
 Archiving;Wird Archiviert
 Server is currently not archived;Dieser Server ist zurzeit nicht Archiviert
-Add allocation;Zuweisung hinzufügen
+Add allocation;Allocation hinzufügen
 231;231
 175;175
 Dotnet version;Dotnet Version
