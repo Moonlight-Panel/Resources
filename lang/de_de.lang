@@ -156,7 +156,7 @@ UuidIdentifier;UuidIdentifier
 Override startup command;Startup Befehl überschreiben
 Loading;Wird geladen...
 Offline;Offline
-Connecting;Verbiden...
+Connecting;Verbinden...
 Start;Start
 Restart;Neustart
 Stop;Stoppen
@@ -172,7 +172,7 @@ Settings;Einstellungen
 Enter command;Befehl eingeben
 Execute;Ausführen
 Checking disk space;Speicherplatz überprüfen
-Updating config files;Konfigurations-Dateien werden geupdatet
+Updating config files;Konfigurations-Dateien werden aktualisiert
 Checking file permissions;Datei-Rechte werden überprüft
 Downloading server image;Server Image wird heruntergeladen
 Downloaded server image;Server Image wurde heruntergeladen
@@ -256,7 +256,7 @@ Invalid subscription code;Unbekannter Abo-Code
 Cancel Subscription;Abo beenden
 Active until;Aktiv bis
 We will send you a notification upon subscription expiration;Wenn dein Abo endet, senden wir dir eine E-Mail
-This token has been already used;Dieser Token wurde schon benutzt
+This token has been already used;Dieser Token wurde bereits benutzt
 New login for;Neue Anmeldung für
 No records found for this day;Für diesen Tag wurden keine Records gefunden
 Change;Ändern
@@ -319,7 +319,7 @@ Country;Staat
 Totp;Totp
 Discord;Discord
 Subscription;Abonnement
-None;None
+None;Keine
 No user with this id found;Kein Benutzer mit dieser ID gefunden
 Back to list;Zurück zur liste
 New domain;Neue domain
@@ -355,7 +355,7 @@ No variables found;Keine Variablen gefunden
 Successfully added image;Das Image wurde erfolgreich hinzugefügt
 Password change for;Password ändern für
 of;von
-New node;Neues Node
+New node;Neue Node
 Fqdn;Fqdn
 Cores used;Kerne genutzt
 used;benutzt
@@ -367,15 +367,15 @@ details;Details
 1;1
 2;2
 DDos;DDos
-No ddos attacks found;Keine DDoS gefunden
+No ddos attacks found;Keine DDoS Attacken gefunden
 Node;Node
 Date;Datum
 DDos attack started;DDos Attacke gestartet
 packets;Pakete
 DDos attack stopped;DDos Attacke gestoppt
  packets; Pakete
-Stop all;Alle Stoppen
-Kill all;Allen Killen
+Stop all;Alle Server Stoppen
+Kill all;Alle Server Killen
 Network in;Network in
 Network out;Network out
 Kill all servers;Alle Server Killen
@@ -397,7 +397,7 @@ The Name field is required.;Der Name dieses Feldes ist erforderlich
 An error occured while logging you in;Ein Fehler ist aufgetreten, als du dich angemeldet hast
 You need to enter an email address;Du musst eine E-Mail-Adresse angeben
 You need to enter a password;Du musst ein Password eingeben
-You need to enter a password with minimum 8 characters in lenght;Du musst ein Password eingeben, das mindestens 8 Buchstaben lang ist
+You need to enter a password with minimum 8 characters in lenght;Du musst ein Password angeben, das mindestens 8 Zeichen lang ist
 Proccessing;Wird verarbeitet...
 The FirstName field is required.;Das Vorname-Feld ist erforderlich
 The LastName field is required.;Das Nachname-Feld ist erforderlich
@@ -625,7 +625,7 @@ Forge version;Forge Version
 Fabric version;Fabric Version
 Fabric loader version;Fabric Loader Version
 Rate;Rate
-Hey, can i borrow you for a second?;Hey, kann ich dich mal kurz ausleihen?
+Hey, can i borrow you for a second?;Hey, kann ich dich ganz kurz was fragen?
 We want to improve our services and get a little bit of feedback how we are currently doing. Please leave us a rating;Da wir unsere Dienste ständig verbessern, möchten wir dich um Feedback bitten. Bitte Bewerte uns:
 Thanks for your rating;Danke für deine Bewertun
 It would be really kind of you rating us on a external platform as it will help our project very much;Es wäre wirklich nett, wenn du uns auf einer externen Plattform bewerten würdest, denn das würde unserem Projekt sehr helfen
@@ -678,7 +678,7 @@ Save changes;Änderungen speichern
 Delete domain;Domain löschen
 Python version;Python Version
 Python file;Python Datei
-Select python file to execute on start;Wähle die Python Datei aus, die beim Start ausgeführt wird
+Select python file to execute on start;Wähle die Python Datei aus, die beim Start ausgeführt werden soll
 You have no webspaces;Du hast keine Webspaces
 We were not able to find any webspaces associated with your account;Wir haben keine Webspaces gefunden, die mit deinem Account verbunden sind
 Backup download successfully started;Der Backup-Download wurde erfolgreich gestartet
@@ -775,4 +775,4 @@ Add allocation;Allocation hinzufügen
 175;175
 Dotnet version;Dotnet Version
 Dll file;DLL Datei
-Select dll to execute on start;Wähle die DLL Datei aus, die beim Start ausgeführt wird 
+Select dll to execute on start;Wähle die DLL Datei aus, die beim Start ausgeführt werden soll 
